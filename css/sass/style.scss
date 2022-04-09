@@ -1,0 +1,12 @@
+$blue: #3bbfce;
+$red: #ccc;
+$margin: 16px;
+h1 {
+  padding: $margin;
+  margin: $margin;
+  color: $blue;
+  border: 1px solid $blue;
+}
+p {
+  color: $red;
+}
